@@ -2,6 +2,11 @@
 
 War-Room Console is a specialized management utility designed for Torn City faction leadership. It streamlines the complex process of calculating ranked war payouts by utilizing a dual-weighted system that balances raw hit volume with respect impact.
 
+
+<p align="center">
+  <img src="https://i.imgur.com/s1Gru34.png" width="600" alt="War-Room Console">
+</p>
+
 ## Overview
 
 The console provides a centralized "Situation Room" interface to handle post-war finances. By connecting directly to the Torn API, it eliminates manual data entry and ensures that every member is compensated fairly based on faction-defined performance metrics.
